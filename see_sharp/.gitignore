@@ -1,0 +1,16 @@
+# Compilados de .NET
+bin/
+obj/
+
+# Godot
+.godot/
+*.import
+export_credentials
+
+# Variables de entorno / secretos
+.env
+*.secret
+
+# Sistema
+.DS_Store
+Thumbs.db
