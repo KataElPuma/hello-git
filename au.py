@@ -1,4 +1,4 @@
-A=0
+,A=0
 B=0
 print("\t\t Hoja de prioridades \t Kata \n Que dia es?:")
 A=input()
@@ -20,4 +20,4 @@ match A:
 if A in ["Lunes","lunes","Miercoles","miercoles","Viernes","viernes"]:
 	print("\nESCALERAS")
 else:
-	print("\nPeso Muerto 30 min")
+	print("\nPeso Muerto 30 min, lagartijas inclinadas 30 repeticiones 3vueltas \t 3 minutos de descanzo\n")
